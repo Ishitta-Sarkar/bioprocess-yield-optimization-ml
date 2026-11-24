@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+title: >-
+  Cross-validated regression of red pigment yield from a published
+  Talaromyces fermentation design
+message: If you use this software, please cite it as below.
+type: software
+authors:
+  - family-names: Sarkar
+    given-names: Ishitta
+    orcid: https://orcid.org/0009-0008-1028-6010
+repository-code: https://github.com/Ishitta-Sarkar/bioprocess-yield-optimization-ml
+license: MIT
+version: 0.2.0
+date-released: 2026-11-24
+keywords:
+  - fermentation
+  - regression
+  - scikit-learn
+  - response-surface-methodology
+references:
+  - type: article
+    title: >-
+      Statistical Optimization of the Physico-Chemical Parameters for
+      Pigment Production in Submerged Fermentation of Talaromyces
+      albobiverticillius 30548
+    authors:
+      - family-names: Venkatachalam
+        given-names: Mekala
+      - family-names: Shum-Chéong-Sing
+        given-names: Alain
+      - family-names: Dufossé
+        given-names: Laurent
+      - family-names: Fouillaud
+        given-names: Mireille
+    journal: Microorganisms
+    volume: 8
+    issue: 5
+    year: 2020
+    doi: 10.3390/microorganisms8050711

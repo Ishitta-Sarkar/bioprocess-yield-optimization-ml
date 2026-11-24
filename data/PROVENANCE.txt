@@ -1,0 +1,27 @@
+Source
+  Venkatachalam M, Shum-Chéong-Sing A, Dufossé L, Fouillaud M.
+  Statistical Optimization of the Physico-Chemical Parameters for Pigment
+  Production in Submerged Fermentation of Talaromyces albobiverticillius 30548.
+  Microorganisms. 2020;8(5):711.
+  DOI: https://doi.org/10.3390/microorganisms8050711
+  PMCID: PMC7284600
+  License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+
+File
+  venkatachalam_2020_table2.csv is Table 2 of that article (29 Box–Behnken
+  runs). Coded factor columns are printed as in the article (−1, 0, +1).
+  Actual setpoints are decoded from Table 1 of the same article:
+    pH: 4 / 6.5 / 9
+    temperature: 21 / 24 / 27 °C
+    agitation: 100 / 150 / 200 rpm
+    fermentation time: 24 / 168 / 336 h
+
+Experiment
+  Organism: Talaromyces albobiverticillius 30548 (GenBank MK937814)
+  Medium: potato dextrose broth in shake flasks
+  orange_pigment_yield_g_l: g/L equivalent of quinizarin (absorbance at 470 nm)
+  red_pigment_yield_g_l: g/L equivalent of red yeast rice pigment (500 nm)
+  biomass_g_l: dry biomass weight (g/L)
+
+Values kept as printed, including the negative orange-pigment entry in run 14
+(−0.10) and the biomass entry in run 26 (6.7).

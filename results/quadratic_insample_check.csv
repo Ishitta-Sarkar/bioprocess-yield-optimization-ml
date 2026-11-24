@@ -1,0 +1,2 @@
+insample_r2,insample_mae,predicted_center_g_l,center_observation_mean_g_l,center_observation_std_g_l,paper_equation_9_intercept_g_l,paper_reported_insample_r2
+0.49249016343648033,0.2528275862068966,1.2479999999999998,1.248,0.3547111500925788,1.92,0.9734
