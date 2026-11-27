@@ -105,4 +105,8 @@ Software: see [CITATION.cff](CITATION.cff).
 
 ## Author
 
-Ishitta Sarkar · [ORCID](https://orcid.org/0009-0008-1028-6010) · [MIT License](LICENSE)
+Ishitta Sarkar · [ORCID 0009-0008-1028-6010](https://orcid.org/0009-0008-1028-6010)
+
+M.Tech in Bioinformatics (in progress, expected 2028). B.Tech Biotechnology (Honours), Dr. A.P.J. Abdul Kalam Technical University, 2022–2026.
+
+MIT License.
